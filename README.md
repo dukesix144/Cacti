@@ -1,7 +1,3 @@
-# Project Name
-
-## About
-
 This project, **Cacti**: tools for users to install Cacti on shared web hosting.  Example graph templates, data query, and data input.
 
 ## Usage
